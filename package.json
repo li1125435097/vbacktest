@@ -1,0 +1,25 @@
+{
+  "name": "vbacktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "DEBUG=vbt* node app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li1125435097/vbacktest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li1125435097/vbacktest/issues"
+  },
+  "homepage": "https://github.com/li1125435097/vbacktest#readme",
+  "dependencies": {
+    "debug": "^4.3.3"
+  }
+}
